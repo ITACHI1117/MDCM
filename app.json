@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "MDCM",
+    "slug": "MDCM",
+    "ios": {
+      "bundleIdentifier": "com.itachi.mdcm",
+      "buildNumber": ".0.0",
+      "userInterfaceStyle": "automatic"
+    },
+    "version": "2.0.0",
+    "orientation": "default",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "cover"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.itachi.mdcm"
+    }
+  },
+  "description": "Mission for Deliverance Christ Ministry Sunday School manual reader."
+}
